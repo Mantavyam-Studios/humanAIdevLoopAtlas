@@ -1,7 +1,16 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Process of Development](process-of-development.md)
+* [Fundamentals of Computer Systems](fundamentals-of-computer-systems.md)
+* [Core of Artificial Intelligence](core-of-artificial-intelligence.md)
+
+## Software Development
+
+* [Technologies Stacks](software-development/technologies-stacks.md)
+
+***
+
+* [Process of Software Development](process-of-software-development.md)
 
 ## Frontend
 
