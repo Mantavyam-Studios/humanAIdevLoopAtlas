@@ -31,3 +31,7 @@
 ## Youtube Value
 
 * [Page 5](youtube-value/page-5.md)
+
+***
+
+* [Mini Task Master (Manual)](mini-task-master-manual.md)
