@@ -1,4 +1,6 @@
-# Github / Gitlab
+# VERSION CONTROL
+
+{% embed url="https://github.com/resources/articles/devops/ci-cd" %}
 
 The **best format for GitHub commit naming convention**—followed by many experienced developers and major projects—adheres to a combination of _clarity, consistency, and structure_ rooted in industry best practices and the "Conventional Commits" standard.
 

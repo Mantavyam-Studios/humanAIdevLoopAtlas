@@ -3,39 +3,34 @@
 * [Overview](README.md)
 * [Fundamentals of Computer Systems](fundamentals-of-computer-systems.md)
 * [Core of Artificial Intelligence](core-of-artificial-intelligence.md)
+* [Software Engineering](software-engineering.md)
+* [SDLC](sdlc.md)
+* [Technologies Stacks](technologies-stacks/README.md)
+  * [SAAS Development](technologies-stacks/saas-development.md)
+  * [Mobile Apps Development](technologies-stacks/mobile-apps-development.md)
+  * [Game Development](technologies-stacks/game-development.md)
 
 ## Software Development
 
-* [Technologies Stacks](software-development/technologies-stacks.md)
+* [FRONTEND](software-development/frontend.md)
+* [BACKEND](software-development/backend.md)
+* [API](software-development/api.md)
+* [DATABASE](software-development/database.md)
+* [VERSION CONTROL](software-development/version-control.md)
+* [CYBER SECURITY](software-development/cyber-security/README.md)
+  * [AUTHENTICATION](software-development/cyber-security/authentication.md)
 
-***
+## AI Driven Development
 
-* [Process of Software Development](process-of-software-development.md)
+* [Complete Guide](ai-driven-development/complete-guide.md)
+* [BMAD: Agile Development](ai-driven-development/bmad-agile-development.md)
+* [Task Breakdown](ai-driven-development/task-breakdown.md)
+* [Context - AI Memory Layer](ai-driven-development/context-ai-memory-layer.md)
+* [Testing](ai-driven-development/testing.md)
+* [MVP Prototyping](ai-driven-development/mvp-prototyping.md)
 
-## Frontend
+## MARKETING / DISTRIBUTION
 
-* [Page 1](frontend/page-1.md)
-
-## Backend
-
-* [Page 2](backend/page-2.md)
-
-## API
-
-* [Page 3](api/page-3.md)
-
-## Database
-
-* [Page 4](database/page-4.md)
-
-## Youtube Value
-
-* [Page 5](youtube-value/page-5.md)
-
-***
-
-* [Mini Task Master (Manual)](mini-task-master-manual.md)
-
-## Version Control
-
-* [Github / Gitlab](version-control/github-gitlab.md)
+* [Distribution Channels](marketing-distribution/distribution-channels.md)
+* [Consumer Psychology](marketing-distribution/consumer-psychology.md)
+* [Value Perception](marketing-distribution/value-perception.md)

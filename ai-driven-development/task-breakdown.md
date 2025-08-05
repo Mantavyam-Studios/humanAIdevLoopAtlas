@@ -1,7 +1,9 @@
-# Mini Task Master (Manual)
+# Task Breakdown
+
+## APPROACH 1: Basic & Manual
 
 {% hint style="info" %}
-SYSTEM PROMPT
+SYSTEM PROMPT (Mini Task-Master Custom)
 
 ***
 
