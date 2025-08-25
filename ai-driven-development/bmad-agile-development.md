@@ -16,6 +16,7 @@ If the diagrams below don't render, install Markdown All in One along with the M
 
 Before development begins, BMad follows a structured planning workflow that's ideally done in web UI for cost efficiency:
 
+{% code fullWidth="true" %}
 ```mermaid
 graph TD
     A["Start: Project Idea"] --> B{"Optional: Analyst Research"}
@@ -74,6 +75,7 @@ graph TD
     style O fill:#f9ab00,color:#fff
     style P fill:#34a853,color:#fff
 ```
+{% endcode %}
 
 **Web UI to IDE Transition**
 
@@ -99,6 +101,7 @@ QA Gates         → docs/qa/gates/
 
 Once planning is complete and documents are sharded, BMad follows a structured development workflow:
 
+{% code fullWidth="true" %}
 ```mermaid
 graph TD
     A["Development Phase Start"] --> B["SM: Reviews Previous Story Dev/QA Notes"]
@@ -161,6 +164,7 @@ graph TD
     style Y fill:#e3f2fd,color:#000
     style Z fill:#ffd54f,color:#000
 ```
+{% endcode %}
 
 ### Prerequisites
 
