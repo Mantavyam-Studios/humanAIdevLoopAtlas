@@ -27,7 +27,7 @@
 * [Task Breakdown](ai-driven-development/task-breakdown.md)
 * [Context - AI Memory Layer](ai-driven-development/context-ai-memory-layer.md)
 * [Testing](ai-driven-development/testing.md)
-* [MVP Prototyping](ai-driven-development/mvp-prototyping.md)
+* [Guardrails for AI Agents](ai-driven-development/guardrails-for-ai-agents.md)
 
 ## MARKETING / DISTRIBUTION
 
