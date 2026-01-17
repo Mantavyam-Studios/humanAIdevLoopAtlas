@@ -23,6 +23,7 @@
 ## AI Driven Development
 
 * [Complete Guide](ai-driven-development/complete-guide.md)
+* [Human in Loop](ai-driven-development/human-in-loop.md)
 * [BMAD: Agile Development](ai-driven-development/bmad-agile-development.md)
 * [Task Breakdown](ai-driven-development/task-breakdown.md)
 * [Context - AI Memory Layer](ai-driven-development/context-ai-memory-layer.md)
